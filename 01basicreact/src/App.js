@@ -1,8 +1,12 @@
-
+import Great from "./Great";
 
 function App() {
   return (
-    <h1>ABHAY</h1>
+    <>
+      <h1>ABHAY</h1>
+      <Great/>
+    </>
+    
   );
 }
 
